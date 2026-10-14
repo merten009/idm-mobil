@@ -39,4 +39,5 @@ dependencies {
     implementation("androidx.compose.ui:ui")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.2")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
-    implement
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+}
